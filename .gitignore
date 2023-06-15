@@ -1,0 +1,2 @@
+/provision_server/.terraform.*
+/provision_server/terraform.*
