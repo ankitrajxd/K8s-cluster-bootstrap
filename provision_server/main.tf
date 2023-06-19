@@ -175,7 +175,6 @@ resource "digitalocean_firewall" "worker_firewall" {
   }
 
 
-
   outbound_rule {
     protocol              = "tcp"
     port_range            = "1-65535"
